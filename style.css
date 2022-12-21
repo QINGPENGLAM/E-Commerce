@@ -82,8 +82,11 @@
   }
   
   .header{
-    background-image: url(image/newbackground.jpg);
+    background-image: url(image/desingabck.png);
     width: 100%;
+    width:100%;
+  background-size: cover;
+  background-position: center;
     transition: transform 0.5s;
   }
   .header:hover{
